@@ -13,10 +13,7 @@ redirect_from:
 
 📑 I'am currently working towards my Master's Thesis in the field of developing a unified multi-modal large model that integrates geometry diagram generation, problem-solving, and diagram understanding.
 
-🥊🏋️ I am also interested in doing sports.
-
-![🥊](/images/boxing.png)
-![🏋️](/images/weight.png)
+🥊🏋️ I am also interested in doing sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
 
 # Selected Experience
 ## Research Experience
