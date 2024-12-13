@@ -4,15 +4,14 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "Publications"
-    #url: /publications/
-    url: https://scholar.google.com/citations?user=ipNGWkEAAAAJ  
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
+main:  
   - title: "CV"
     #url: /cv/
     url: /files/cv.pdf
-  
+
+  - title: "Publications"
+    #url: /publications/
+    url: https://scholar.google.com/citations?user=ipNGWkEAAAAJ
+
+  - title: "Portfolio"
+    url: /portfolio/
