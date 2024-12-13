@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I'm a final year master student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn). Majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma]((https://english.pku.edu.cn/)).
+🧑‍🎓 I'm a final year master student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn). Majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/).
 
 🧐 My research interest lies in using AI technology to solve real-world problems, particularly in the applications of multimodal learning, natural language processing, and computer vision.
 
