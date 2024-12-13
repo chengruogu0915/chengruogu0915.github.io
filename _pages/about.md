@@ -16,7 +16,6 @@ redirect_from:
 🥊🏋️ I am also interested in doing sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
 
 # Selected Experience
-## Research Experience
 ### **Diagram Formalization Enhanced Geometry Problem Solver**  
 ![pipeline](/images/pipeline.png)  
 [Project Homepage](https://github.com/zezeze97/DFE-GPS) | [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214)  
