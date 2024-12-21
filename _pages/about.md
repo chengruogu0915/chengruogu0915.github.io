@@ -9,7 +9,7 @@ redirect_from:
 
 🧑‍🎓 I'm a final year master student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn). Majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/).
 
-🧐 My research interests include multi-modal reasoning, natural language processing, and computer vision, with a particular focus on using synthetic data to enhance the performance of LLMs.
+🧐 My research interests include multi-modal reasoning and natural language processing with a particular focus on using synthetic data to enhance the performance of LLMs.
 
 📑 I'am currently working towards my Master's Thesis in the field of developing a unified multi-modal large model that integrates geometry diagram generation, problem-solving, and diagram understanding.
 
