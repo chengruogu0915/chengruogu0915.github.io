@@ -27,7 +27,7 @@ on knowledge points.
 
 ### **Diagram Formalization Enhanced Geometry Problem Solver**  
 ![pipeline](/images/pipeline.png)  
-[Project Homepage](https://github.com/zezeze97/DFE-GPS) | [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214) | [Video] (https://youtu.be/kI6_DDXweWE?si=q6kwaekFNJjUinyD)
+[Project Homepage](https://github.com/zezeze97/DFE-GPS) | [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214) | [Video](https://youtu.be/kI6_DDXweWE?si=q6kwaekFNJjUinyD)
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
 - Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.  
 - Achieved an accuracy of 82.38% on the publicly available FormalGeo7k dataset, significantly outperforming existing multi-modal and language models, including GPT-4.
