@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Education
-
 - **Peking University**, M.S., School of Mathematical Sciences, 2022–present  
 - **Beijing Normal University**, B.S., School of Mathematical Sciences, 2018–2022
 
