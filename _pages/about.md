@@ -19,6 +19,7 @@ I am the Teaching Assistant for the undergraduate course 'Mathematical Modelling
 # Selected Experience
 ### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** 
 ![overview](/images/overviewgeoouni.png){:style="width: 60%;"}
+
 [Paper](http://arxiv.org/abs/2504.10146) 
 - Proposed the first unified multi-modal geometry expert model, GeoUni,capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based
 on knowledge points. 
@@ -28,6 +29,7 @@ on knowledge points.
 
 ### **Diagram Formalization Enhanced Geometry Problem Solver**  
 ![pipeline](/images/pipeline.png){:style="width: 60%;"}
+
 [Project Homepage](https://github.com/zezeze97/DFE-GPS) | [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214) | [Video](https://youtu.be/kI6_DDXweWE?si=q6kwaekFNJjUinyD)
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
 - Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.  
