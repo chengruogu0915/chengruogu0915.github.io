@@ -30,8 +30,10 @@ on knowledge points.
 ### **Diagram Formalization Enhanced Geometry Problem Solver**  
 ![pipeline](/images/pipeline.png){:style="width: 60%;"}
 
-[Project Homepage](https://github.com/zezeze97/DFE-GPS) | [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kI6_DDXweWE?si=q6kwaekFNJjUinyD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Project Homepage](https://github.com/zezeze97/DFE-GPS) | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height:1em; vertical-align:middle;"> [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214)
+
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
 - Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.  
 - Achieved an accuracy of 82.38% on the publicly available FormalGeo7k dataset, significantly outperforming existing multi-modal and language models, including GPT-4.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kI6_DDXweWE?si=q6kwaekFNJjUinyD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
