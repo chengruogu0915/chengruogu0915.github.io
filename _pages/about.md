@@ -7,20 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I'm a final year master student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn). Majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/).
+🧑‍🎓 I'm a final year master's student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn), majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/). I am also the TA for the undergraduate course 'Mathematical Modelling' at PKU.
 
-I am the Teaching Assistant for the undergraduate course 'Mathematical Modelling' at the School of Mathematical Sciences, Peking University.
+🧐 My research interests include multimodal reasoning and Large Language Model applications.
 
-🧐 My research interests include Multimodal Large Language Models (MLLMs) and Large Language Models (LLMs), with a particular focus on solving geometry problems.
+😄 I am from Taichung, Taiwan and grew up in Beijing.
 
-🥊🏋️ I am also interested in doing sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
+🥊🏋️ I am interested in doing sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
 
 
 # Selected Experience
 ### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** 
-![overview](/images/overviewgeoouni.png){:style="width: 60%;"}
-
-[Paper](http://arxiv.org/abs/2504.10146) 
+<div style="display: flex; gap: 2%;">
+  <img src="/images/overviewgeoouni.png" style="width: 60%;" />
+  <img src="/images/geouni-poster.png" style="width: 40%;" />
+</div>
 - Proposed the first unified multi-modal geometry expert model, GeoUni,capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based
 on knowledge points. 
 - Proposed Geo-MAGVIT, a module specifically designed for the tokenization of geometric diagrams. By introducing topo-structural awareness loss and text region loss, it significantly improves the precision of geometry structure and text reconstruction.
@@ -30,7 +31,12 @@ on knowledge points.
 ### **Diagram Formalization Enhanced Geometry Problem Solver**  
 ![pipeline](/images/pipeline.png){:style="width: 60%;"}
 
-[Project Homepage](https://github.com/zezeze97/DFE-GPS) | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height:1em; vertical-align:middle;"> [Dataset](https://huggingface.co/datasets/JO-KU/SynthGeo228K) | [Paper](https://arxiv.org/pdf/2409.04214)
+<p><a href="https://github.com/zezeze97/DFE-GPS">Project Homepage</a></p>
+<p>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height:1em; vertical-align:middle;">
+  <a href="https://huggingface.co/datasets/JO-KU/SynthGeo228K">Dataset</a>
+</p>
+<p><a href="https://arxiv.org/pdf/2409.04214">Paper</a></p>
 
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
 - Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.  
