@@ -20,14 +20,14 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 # Selected Experience
 ### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** 
-<div style="display: flex; gap: 2%;">
-  <img src="/images/overviewgeoouni.png" style="width: 70%;" />
-</div>
+<img src="/images/overviewgeoouni.png" alt="GeoUni Overview" style="width:70%;" />
+
 <p>
   <a href="https://github.com/chengruogu0915/GeoUni">Project Homepage</a> |
   <a href="https://dl.acm.org/doi/10.1145/3746027.3754965">Paper</a> ｜
   <a href="https://www.youtube.com/watch?v=aEnqwphj1Hw">Video</a>
 </p>
+
 
 - Proposed the first unified multi-modal geometry expert model, GeoUni,capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based
 on knowledge points. 
@@ -46,8 +46,7 @@ on knowledge points.
   <a href="https://www.youtube.com/watch?v=kI6_DDXweWE" style="margin-left: 10px;">Video</a>
 </p>
 
+
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
 - Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.  
 - Achieved an accuracy of 82.38% on the publicly available FormalGeo7k dataset, significantly outperforming existing multi-modal and language models, including GPT-4.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kI6_DDXweWE?si=q6kwaekFNJjUinyD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
