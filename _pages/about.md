@@ -21,12 +21,12 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 # Selected Experience
 ### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** 
 <div style="display: flex; gap: 2%;">
-  <img src="/images/overviewgeoouni.png" style="width: 60%;" />
-  <img src="/images/geouni-poster.png" style="width: 40%;" />
+  <img src="/images/overviewgeoouni.png" style="width: 70%;" />
 </div>
 <p>
   <a href="https://github.com/chengruogu0915/GeoUni">Project Homepage</a> |
-  <a href="https://dl.acm.org/doi/10.1145/3746027.3754965" style="margin-left: 10px;">Paper</a>
+  <a href="https://dl.acm.org/doi/10.1145/3746027.3754965">Paper</a> ｜
+  <a href="https://www.youtube.com/watch?v=aEnqwphj1Hw">Video</a>
 </p>
 
 - Proposed the first unified multi-modal geometry expert model, GeoUni,capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based
@@ -40,9 +40,10 @@ on knowledge points.
 
 <p>
   <a href="https://github.com/zezeze97/DFE-GPS">Project Homepage</a> |
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height:1em; vertical-align:middle; margin-left: 10px; margin-right: 4px;">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" style="height:1em; vertical-align:middle; margin-left: 10px; margin-right: 4px;">
   <a href="https://huggingface.co/datasets/JO-KU/SynthGeo228K">Dataset</a> |
-  <a href="https://arxiv.org/pdf/2409.04214" style="margin-left: 10px;">Paper</a>
+  <a href="https://arxiv.org/pdf/2409.04214" >Paper</a>
+  <a href="https://www.youtube.com/watch?v=kI6_DDXweWE" style="margin-left: 10px;">Video</a>
 </p>
 
 - Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.  
