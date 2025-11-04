@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I'm a final year master's student at [Peking University, School of Mathematical Sciences](http://english.math.pku.edu.cn), majoring in Applied Mathematics under the supervision of [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/). I am also the TA for the undergraduate course 'Mathematical Modelling' at PKU.
+🧑‍🎓 I will begin my PhD in the [Natural Language Processing (NLP) group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the [University of Sheffield](https://sheffield.ac.uk/) in February 2026, under the supervision of [Dr. Marco Valentino](https://www.marcovalentino.net/) and [Prof. Nikolaos Aletras](https://nikosaletras.com/).
+
+I obtained my master’s degree in Applied Mathematics from the [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn), where I was supervised by [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/).
 
 🧐 My research interests include multimodal reasoning and Large Language Model applications.
 
@@ -24,7 +26,7 @@ redirect_from:
 </div>
 <p>
   <a href="https://github.com/chengruogu0915/GeoUni">Project Homepage</a> |
-  <a href="https://arxiv.org/abs/2504.10146" style="margin-left: 10px;">Paper</a>
+  <a href="https://dl.acm.org/doi/10.1145/3746027.3754965" style="margin-left: 10px;">Paper</a>
 </p>
 
 - Proposed the first unified multi-modal geometry expert model, GeoUni,capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based
