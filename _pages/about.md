@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I will begin my PhD in the [Natural Language Processing (NLP) group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the [University of Sheffield](https://sheffield.ac.uk/) in February 2026, under the supervision of [Dr. Marco Valentino](https://www.marcovalentino.net/) and [Prof. Nikolaos Aletras](https://nikosaletras.com/).
+🧑‍🎓 I am a first-year PhD student in [Natural Language Processing (NLP) group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the [University of Sheffield](https://sheffield.ac.uk/), under the supervision of [Dr. Marco Valentino](https://www.marcovalentino.net/) and [Prof. Nikolaos Aletras](https://nikosaletras.com/).
 
 I obtained my master’s degree in Applied Mathematics from the [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn), where I was supervised by [Prof. Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/).
 
-🧐 My research interests include multimodal reasoning and Large Language Model applications.
+🧐 My research interests include integrating neural and symbolic approaches within language models to enhance their reasoning capabilities, controllability, and interpretability.
 
 😄 I am from Taichung, Taiwan and grew up in Beijing.
 
-🥊🏋️ I am interested in doing sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
+🥊🏋️ I enjoy sports.  I do <a href="/images/boxing.png">boxing</a> and <a href="/images/weight.png">crossfit</a>.
 
 
 # Selected Experience
