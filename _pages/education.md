@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 ---
 
+- **University of Sheffield**, PhD, School of Computer Science, 2026–Present 
 - **Peking University**, M.S., School of Mathematical Sciences, 2022–2025  
 - **Beijing Normal University**, B.S., School of Mathematical Sciences, 2018–2022
 
