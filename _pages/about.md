@@ -19,6 +19,17 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 
 # Selected Experience
+### **Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility**
+![Logic Before Language pipeline](/images/Logic-pipeline.png){:style="width: 100%;"}
+
+<p>
+  <a href="https://arxiv.org/abs/2608.03930">Paper</a>
+</p>
+
+- Proposed logic pre-pretraining (Logic-PPT), which uses formal derivations to provide language models with richer structural and linguistic biases before natural language training.
+- Demonstrated faster skill acquisition at the 100B-token scale, reaching 80% accuracy on linguistic tasks with 36B fewer training tokens than standard initialization.
+- Showed that logic pre-pretraining induces a lower-rank, spectrally concentrated representation space and improves model compressibility, matching dense baseline performance at approximately 33% sparsity.
+
 ### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** 
 <img src="/images/overviewgeoouni.png" alt="GeoUni Overview" style="width:70%;" />
 
