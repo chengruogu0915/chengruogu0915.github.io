@@ -20,7 +20,7 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 # Selected Experience
 ### **Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility**
-![Logic Before Language pipeline](/images/Logic-pipeline.png){:style="width: 100%;"}
+![Logic Before Language pipeline](/images/Logic-pipeline.png){:style="display: block; width: 85%; margin: 0 auto;"}
 
 <p>
   <a href="https://arxiv.org/abs/2608.03930">Paper</a>
