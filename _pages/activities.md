@@ -11,4 +11,4 @@ author_profile: true
 
 EMNLP 2026
 
-**Marco Valentino**, Deborah Ferreira, Mokanarangan Thayaparan, Leonardo Ranaldi, Jo-Ku Cheng, Andre Freitas
+Marco Valentino, Deborah Ferreira, Mokanarangan Thayaparan, Leonardo Ranaldi, **Jo-Ku Cheng**, Andre Freitas
