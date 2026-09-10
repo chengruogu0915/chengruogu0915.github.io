@@ -24,6 +24,8 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 <p>
   <a href="https://github.com/uos-nesy/DerivationTree">Project Page</a> |
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" style="height:1em; vertical-align:middle; margin-left: 10px; margin-right: 4px;">
+  <a href="https://huggingface.co/datasets/jokucheng/DerivationTree">Dataset</a> |
   <a href="https://arxiv.org/abs/2608.03930">Paper</a>
 </p>
 
