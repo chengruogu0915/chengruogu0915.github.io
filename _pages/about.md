@@ -23,6 +23,7 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 ![Logic Before Language pipeline](/images/Logic-pipeline.png){:style="display: block; width: 85%; margin: 0 auto;"}
 
 <p>
+  <a href="https://github.com/uos-nesy/DerivationTree">Project Page</a> |
   <a href="https://arxiv.org/abs/2608.03930">Paper</a>
 </p>
 
