@@ -20,7 +20,7 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 # News
 
-- **Aug 2026** — Released [Logic Before Language](https://arxiv.org/abs/2608.03930), with the [project code](https://github.com/uos-nesy/DerivationTree) and [dataset](https://huggingface.co/datasets/jokucheng/DerivationTree) publicly available.
-- **2026** — Started my PhD in Computer Science at the University of Sheffield.
-- **Nov 2025** — Our paper on group-wise adaptive calibration for long-text generation appeared in Findings of EMNLP 2025.
-- **Oct 2025** — Our paper [GeoUni](https://dl.acm.org/doi/10.1145/3746027.3754965) appeared at ACM Multimedia 2025.
+- **4 August 2026** — Uploaded [Logic Before Language](https://arxiv.org/abs/2608.03930) to arXiv, with the [project code](https://github.com/uos-nesy/DerivationTree) and [dataset](https://huggingface.co/datasets/jokucheng/DerivationTree) publicly available.
+- **February 2026** — Started my PhD in Computer Science at the University of Sheffield.
+- **20 August 2025** — Our paper on group-wise adaptive calibration for long-text generation was accepted to Findings of EMNLP 2025.
+- **4 July 2025** — Our paper [GeoUni](https://dl.acm.org/doi/10.1145/3746027.3754965) was accepted to ACM Multimedia 2025.
