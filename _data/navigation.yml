@@ -13,5 +13,8 @@ main:
     url: /publications/
     #url: https://scholar.google.com/citations?user=ipNGWkEAAAAJ
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Activities"
     url: /activities/

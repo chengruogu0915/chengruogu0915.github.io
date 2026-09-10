@@ -1,0 +1,51 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+[Logic Before Language](#logic-before-language) · [GeoUni](#geouni) · [DFE-GPS](#dfe-gps)
+
+### **Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility** {#logic-before-language}
+![Logic Before Language pipeline](/images/Logic-pipeline.png){:style="display: block; width: 85%; margin: 0 auto;"}
+
+<p>
+  <a href="https://github.com/uos-nesy/DerivationTree">Project Page</a> |
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" style="height:1em; vertical-align:middle; margin-left: 10px; margin-right: 4px;">
+  <a href="https://huggingface.co/datasets/jokucheng/DerivationTree">Dataset</a> |
+  <a href="https://arxiv.org/abs/2608.03930">Paper</a>
+</p>
+
+- Proposed logic pre-pretraining (Logic-PPT), which uses formal derivations to provide language models with richer structural and linguistic biases before natural language training.
+- Demonstrated faster skill acquisition at the 100B-token scale, reaching 80% accuracy on linguistic tasks with 36B fewer training tokens than standard initialization.
+- Showed that logic pre-pretraining induces a lower-rank, spectrally concentrated representation space and improves model compressibility, matching dense baseline performance at approximately 33% sparsity.
+
+### **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions** {#geouni}
+<img src="/images/overviewgeoouni.png" alt="GeoUni Overview" style="width:70%;" />
+
+<p>
+  <a href="https://github.com/chengruogu0915/GeoUni">Project Homepage</a> |
+  <a href="https://dl.acm.org/doi/10.1145/3746027.3754965">Paper</a> |
+  <a href="https://www.youtube.com/watch?v=aEnqwphj1Hw">Video</a>
+</p>
+
+- Proposed the first unified multi-modal geometry expert model, GeoUni, capable of solving geometry problems, generating precise geometric diagrams using both formal and natural language, and creating geometry problems based on knowledge points.
+- Proposed Geo-MAGVIT, a module specifically designed for the tokenization of geometric diagrams. By introducing topo-structural awareness loss and text region loss, it significantly improves the precision of geometry structure and text reconstruction.
+- Combined GRPO and LoRA to train the Geo-Reasoning-Adapter, which effectively boosts geometric reasoning capability and seamlessly integrates into the unified model architecture.
+- Established novel diagram generation evaluation metrics, including the Geometry Semantic Matching Scores (GSMSs) and Geometry Pixel Matching Score (GPMS), to comprehensively evaluate the diagram generation task.
+
+### **Diagram Formalization Enhanced Geometry Problem Solver** {#dfe-gps}
+![Diagram Formalization Enhanced Geometry Problem Solver pipeline](/images/pipeline.png){:style="width: 70%;"}
+
+<p>
+  <a href="https://github.com/zezeze97/DFE-GPS">Project Homepage</a> |
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" style="height:1em; vertical-align:middle; margin-left: 10px; margin-right: 4px;">
+  <a href="https://huggingface.co/datasets/JO-KU/SynthGeo228K">Dataset</a> |
+  <a href="https://arxiv.org/pdf/2409.04214">Paper</a> |
+  <a href="https://www.youtube.com/watch?v=kI6_DDXweWE">Video</a>
+</p>
+
+- Designed a multimodal framework integrating visual features and geometric formal languages for solving complex geometry problems.
+- Proposed a synthetic data approach (SynthGeo228K dataset) for improving model training and diagram interpretation.
+- Achieved an accuracy of 82.38% on the publicly available FormalGeo7k dataset, significantly outperforming existing multi-modal and language models, including GPT-4.
