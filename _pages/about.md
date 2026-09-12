@@ -17,12 +17,12 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 # News
 
-- **4 August 2026** — Our paper “Logic Before Language” has been out on arXiv! See [here](https://arxiv.org/abs/2608.03930) for the preprint.
-- 🇩🇪 **22–26 June 2026** — Attended the Neuro-Symbolic Summer School in Leipzig, Germany.
+- 📝 **August 2026** — Our paper “Logic Before Language” has been out on arXiv! See [here](https://arxiv.org/abs/2608.03930) for the preprint.
+- 🇩🇪 **June 2026** — Attended the Neuro-Symbolic Summer School in Leipzig, Germany.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **February 2026** — Started my PhD in Computer Science at the University of Sheffield.
-- 🇨🇳 **4–9 November 2025** — Attended EMNLP 2025 in Suzhou, China.
-- 🇮🇪 **27–31 October 2025** — Attended ACM Multimedia 2025 in Dublin, Ireland.
-- 📝 **20 August 2025** — Our paper [Beyond Binary Preferences: Semi-Online Label-Free GRACE-KTO with Group-Wise Adaptive Calibration for High-Quality Long-Text Generation](https://aclanthology.org/2025.findings-emnlp.951/) was accepted to Findings of EMNLP 2025.
-- 📝 **4 July 2025** — Our paper [GeoUni](https://dl.acm.org/doi/10.1145/3746027.3754965) was accepted to ACM Multimedia 2025.
-- 🇨🇳 **23–25 May 2025** — Attended the ICASSP 2025 Satellite Event in Suzhou, China.
-- 📝 **18 December 2024** — Three papers were accepted to ICASSP 2025: [Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver](https://ieeexplore.ieee.org/document/10889286), [SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space](https://ieeexplore.ieee.org/document/10889186), and [Enhancing Large Language Models on Domain-Specific Tasks](https://ieeexplore.ieee.org/abstract/document/10890050/).
+- 🇨🇳 **November 2025** — Attended EMNLP 2025 in Suzhou, China.
+- 🇮🇪 **October 2025** — Attended ACM Multimedia 2025 in Dublin, Ireland.
+- 📝 **August 2025** — Our paper [Beyond Binary Preferences: Semi-Online Label-Free GRACE-KTO with Group-Wise Adaptive Calibration for High-Quality Long-Text Generation](https://aclanthology.org/2025.findings-emnlp.951/) was accepted to Findings of EMNLP 2025.
+- 📝 **July 2025** — Our paper [GeoUni](https://dl.acm.org/doi/10.1145/3746027.3754965) was accepted to ACM Multimedia 2025.
+- 🇨🇳 **May 2025** — Attended the ICASSP 2025 Satellite Event in Suzhou, China.
+- 📝 **December 2024** — Three papers were accepted to ICASSP 2025: [Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver](https://ieeexplore.ieee.org/document/10889286), [SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space](https://ieeexplore.ieee.org/document/10889186), and [Enhancing Large Language Models on Domain-Specific Tasks](https://ieeexplore.ieee.org/abstract/document/10890050/).
