@@ -17,3 +17,7 @@ I am also a mom to two cats whom I adopted in Beijing. The boy is called Sammy; 
     <figcaption style="margin-top: 0.5rem;"><strong>Perry</strong></figcaption>
   </figure>
 </div>
+
+## Sports
+
+🥊🏋️ I enjoy sports. I do [boxing](/images/boxing.png) and [CrossFit](/images/weight.png).
