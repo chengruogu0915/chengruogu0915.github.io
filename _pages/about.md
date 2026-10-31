@@ -17,6 +17,7 @@ I obtained my master’s degree in Applied Mathematics from the [School of Mathe
 
 # News
 
+- 🇭🇺 **October 2026** — Attended EMNLP 2026 in Budapest, Hungary, and organized [MathNLP 2026: The 4th Workshop on Mathematical Natural Language Processing](https://sites.google.com/view/mathnlp2026).
 - 📝 **August 2026** — Our paper “Logic Before Language” has been out on arXiv! See [here](https://arxiv.org/abs/2608.03930) for the preprint.
 - 🇩🇪 **June 2026** — Attended the Neuro+Symbolic AI Summer School in Leipzig, Germany.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **February 2026** — Started my PhD in Computer Science at the University of Sheffield.
