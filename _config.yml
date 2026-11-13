@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.png"
   name             : "Jo-Ku Cheng(程若谷)"
   pronouns         : "she/her"  
-  bio              : "Large Language Model, Multi-Modal Large Language Model"
+  bio              : ""
   location         : "Sheffield, UK"
   employer         : "University of Sheffield"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ipNGWkEAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-4165-1384"
+  orcid            : ""
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

@@ -1,0 +1,29 @@
+/* Homepage refresh: editorial typography, generous spacing, and a quiet timeline. */
+:root { --home-ink:#282333; --home-muted:#655f70; --home-accent:#63448b; --home-line:#e5dfea; }
+body { background:#fcfaf7; color:var(--home-ink); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+.masthead { background:#fcfaf7; border-bottom:1px solid var(--home-line); box-shadow:none; }
+.masthead__inner-wrap { padding-top:1.05em; padding-bottom:1.05em; }
+.greedy-nav { background:transparent; }
+.greedy-nav a { color:var(--home-muted); font-size:.88em; }
+.greedy-nav .visible-links a:before { background:var(--home-accent); height:2px; }
+.greedy-nav .hidden-links { background:#fcfaf7; }
+#main { max-width:1240px; padding-top:2.5em; }
+.page__title { font-family:Georgia,"Times New Roman",serif; font-size:clamp(1.8rem,3.6vw,2.65rem); font-weight:500; line-height:1.2; letter-spacing:-.035em; margin-bottom:.9em; color:var(--home-ink); }
+.page__content { font-size:.95em; line-height:1.85; }
+.page__content p { margin-bottom:1.3em; }
+.page__content a { color:var(--home-accent); text-decoration:underline; text-decoration-color:#c6b4da; text-underline-offset:3px; }
+.page__content a:hover { color:#3d235f; text-decoration-color:currentColor; }
+.page__content h1,.page__content h2 { font-family:Georgia,"Times New Roman",serif; font-weight:500; font-size:1.65em; letter-spacing:-.02em; margin-top:2.1em; padding-bottom:.5em; border-bottom:1px solid var(--home-line); }
+.page__content #news + ul { list-style:none; margin:1.4em 0 0 .4em; padding:0 0 0 1.6em; border-left:1px solid #d8cbe5; }
+.page__content #news + ul > li { position:relative; margin:0; padding:0 0 1.45em .25em; font-size:.92em; line-height:1.75; }
+.page__content #news + ul > li::before { content:""; position:absolute; left:-1.96em; top:.6em; width:7px; height:7px; border-radius:50%; background:#9476b4; border:3px solid #fcfaf7; box-sizing:content-box; }
+.page__content #news + ul > li strong { color:#4d365f; font-weight:650; }
+.author__avatar img { border-radius:22px; padding:0; border:1px solid var(--home-line); box-shadow:0 8px 28px #34214612; }
+.author__name { font-family:Georgia,"Times New Roman",serif; font-size:1.35em; font-weight:500; }
+.author__bio { color:var(--home-muted); line-height:1.65; }
+.author__urls a { color:var(--home-muted); }
+.author__urls a:hover { color:var(--home-accent); }
+.page__footer { background:#f3eff4; color:var(--home-muted); border-top:1px solid var(--home-line); }
+a:focus-visible,button:focus-visible { outline:2px solid var(--home-accent); outline-offset:4px; }
+@media(min-width:1024px) { .page { padding-left:2em; } .sidebar { padding-right:1.4em; } }
+@media(max-width:767px) { #main { padding-top:1.25em; } .page__content { font-size:1em; } .page__title { margin-top:.5em; } .author__avatar img { border-radius:16px; } .page__content #news + ul { padding-left:1.2em; } .page__content #news + ul > li::before { left:-1.56em; } }
